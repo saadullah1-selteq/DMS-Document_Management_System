@@ -92,12 +92,6 @@ DMS/
 6. **Access the API documentation**:
    Visit `http://127.0.0.1:8000/api/` to explore the API endpoints.
 
-## Requirements
-
-- Python 3.x
-- Django 4.x
-- djangorestframework 3.x
-
 
 ### requirements.txt
 
