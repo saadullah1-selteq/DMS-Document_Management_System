@@ -16,3 +16,4 @@ class Migration(migrations.Migration):
             new_name='Description',
         ),
     ]
+#query params , params , swaggers, django forms
